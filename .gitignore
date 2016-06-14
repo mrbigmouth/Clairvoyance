@@ -6,3 +6,4 @@ chromeExtension/dist/*
 *.zip
 .tmp
 .DS_Store
+*.xpi
